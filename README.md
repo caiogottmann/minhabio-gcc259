@@ -1,5 +1,7 @@
 # Currículo
 
+[![Caio Gottmann](https://media-exp2.licdn.com/dms/image/C4D03AQGZziUtHBfYEw/profile-displayphoto-shrink_200_200/0/1586309528114?e=1663200000&v=beta&t=0xEnjehSnUW5k9M4c-dJpVMvDQqL8N6hW_v_Ctyx_Rs "Caio Gottmann Fernandes Morais")](https://www.linkedin.com/in/caio-gottmann/)
+
 Caio Gottmann Fernandes Morais
 
 Linkedin: [Linkedin](https://www.linkedin.com/in/caio-gottmann/)
